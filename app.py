@@ -55,7 +55,7 @@ st.markdown("""
 
 # Logo Anonymous (en ligne)
 st.markdown("""
-    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Anonymous_emblem.svg/512px-Anonymous_emblem.svg.png" alt="Anonymous Logo">
+    <img class="logo" src="https://a.top4top.io/p_3405n1och0.jpg" alt="Anonymous Logo">
 """, unsafe_allow_html=True)
 
 # Titre
